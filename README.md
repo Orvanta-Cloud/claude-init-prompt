@@ -1,6 +1,8 @@
-# 📋 Copy & Paste this prompt into Claude Code:
+# Universal Claude Code Init Prompt
 
 Here is a universal "init" prompt. You can save this in your notes and paste it into Claude Code whenever you clone a new repository or start a fresh project.
+
+## 📋 Copy & Paste this prompt into Claude Code:
 
 Instead of hardcoding a specific language, this prompt instructs Claude to investigate the project first, figure out the tech stack on its own, and generate the 7-part architecture perfectly tailored to whatever it finds.
 
